@@ -1,4 +1,4 @@
 # mycollege.demo
 This is my first git repository 
 <br>
-Author Mr. Avanish (si) 
+Author Mr. Avanish (i) 
